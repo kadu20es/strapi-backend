@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_image_grids",
+  "info": {
+    "displayName": "image-grid",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
